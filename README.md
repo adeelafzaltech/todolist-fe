@@ -22,6 +22,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## How to Setup
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Clone  the project (git clone git@github.com:adeelshah/todolist-fe.git)  
+- Go to the project directory
+- Run `npm install` command to install dependencies
+- Run `ng serve` to run the application
+- Navigate to `http://localhost:4200` to access the application
